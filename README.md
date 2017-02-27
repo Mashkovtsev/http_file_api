@@ -18,7 +18,7 @@ The app routes:
 `PUT /files/<file_name>` - uploads a file and returns its metadata  
 PARAMS
 
-* overwrite = `true(default)|false` - determines whether an existing file will be overwritten by this upload
+* rewrite = `true(default)|false` - determines whether an existing file will be overwritten by this upload
 
 To run tests execute:  
 ```
